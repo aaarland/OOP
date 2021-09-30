@@ -1,0 +1,20 @@
+TF; A class can have multiple interfaces.;true;5
+TF; Java is a Object Orientated language;true; 5
+TF; An exception and an error are the same thing.;false;5
+TF; An attempt to divide by zero will cause an exception to be thrown.;true;5
+TF; If a program does not handle a raised exception, the exception is ignored and nothing happens.;false;5
+TF; A child class may define a method with the same name as a method in the parent class.;true;5
+TF; final is the keyword used for constants;true;5
+MC;What is the name of a Variable that is shared with all instances of a class;4;instance variable; static variable; local variable; global variable; B;4
+MC;int is a:;3;Type;Number;Javadoc tag;a;5
+MC;What is an array?;3;A variable;Always static;A list of values;C;5
+MC;Which keyword is used for Subclasses;3;extends; implements; abstract;A;5
+MC;Which used to reference an element in an array?;3;[];{};();a;5
+MC;When two methods have the same name, but different parameters its called?;2;Method Overriding; Method Overloading;b;10
+FB;______ is my favorite language;java;10
+FB;______,out.println();System;5
+FB;_____ is the keyword for creating a new object;new;5
+FB;public ______ Truck extends Car {};class;5
+FB;A loop that never exits is called an ______ loop;infinite;5
+FB;_____() is used to call parent constructor;super;5
+FB;(1==2 || 1+2 == 2) evaluates to _____;false;5
